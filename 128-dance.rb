@@ -1,3 +1,4 @@
+#no idea waht this does
 use_bpm 128
 with_fx :compressor do
   
